@@ -1,0 +1,97 @@
+td {
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  margin-bottom: 20px;
+  background-image: url("brooke-lark-08bOYnH_r_E-unsplash.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: rgb(39, 39, 39);
+}
+
+.admin-body {
+  background-image: url("augustine-wong-li0iC0rjvvg-unsplash.jpg");
+  color: rgb(39, 39, 39);
+}
+
+td {
+  display: flex;
+  flex-direction: column;
+}
+
+.postContent {
+  width: 80%;
+  text-align: center;
+  margin: 0px auto;
+}
+
+footer {
+  padding-top: 80px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 13px;
+}
+
+.jumbotron {
+  background-image: url("/images/1585566879_flyg.jpg");
+  background-color: rgba(255, 255, 255, 0.829);
+}
+
+h2 .form-heading {
+  font-size: 4px;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+li {
+  padding: 0px 10px;
+  list-style: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.date-text {
+  color: #78c2ad;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+ul {
+  margin: 20px 0px;
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+li {
+  padding: 0px 10px;
+  list-style: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn {
+  border-radius: 2em;
+}
+
+h1 {
+  text-align: center;
+  font-size: 90px;
+}
+
+.admin-heading {
+  font-size: 40px;
+}
+
+.video-div {
+  display: block;
+  max-width: 700px;
+}
